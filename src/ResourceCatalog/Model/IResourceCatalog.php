@@ -89,7 +89,15 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
 
         'QYHYSJ' => 81,
         'DWYSZCXX'=>82,
-        //@position_type_83
+         'DWYSZCXX'=>82,
+        'TQMYQYZK'=>83,
+
+        'ZFCGHT'=>84,
+        'GGZYJYHT'=>85,
+        'GQCGHT'=>86,
+        'GCJSHT'=>87,
+        'QTHT'=>88,
+        //@position_type_89
         'TEST' => 500
     );
 
@@ -312,6 +320,7 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
             self::TYPE['XZJLXX'],
             self::TYPE['QTXZZFXX'],
             self::TYPE['QYHYSJ'],
+            self::TYPE['TQMYQYZK'],
         ),
         IUserGroup::ID['XJYTYJ'] => array(
             self::TYPE['JSZGXX'],
