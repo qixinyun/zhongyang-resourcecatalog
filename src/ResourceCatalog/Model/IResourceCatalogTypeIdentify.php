@@ -98,6 +98,8 @@ interface IResourceCatalogTypeIdentify
         IResourceCatalog::TYPE['GQCGHT'] => 'GQCGHT',
         IResourceCatalog::TYPE['GCJSHT'] => 'GCJSHT',
         IResourceCatalog::TYPE['QTHT'] => 'QTHT',
+        IResourceCatalog::TYPE['XYSFSQ'] => 'XYSFSQ',
+        IResourceCatalog::TYPE['CCJCJG'] => 'CCJCJG',
         //@position
     );
 }
