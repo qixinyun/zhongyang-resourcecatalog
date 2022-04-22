@@ -108,7 +108,7 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
             self::TYPE['NULL'],
             self::TYPE['XBXZCF'],
             self::TYPE['XBXZXK'],
-            
+            self::TYPE['CCJCJG'],
         ),
         IUserGroup::ID['FGW'] => array(
             self::TYPE['JGJCDXZJL'], 
