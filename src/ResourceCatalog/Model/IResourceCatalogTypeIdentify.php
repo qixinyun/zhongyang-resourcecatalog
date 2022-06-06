@@ -74,7 +74,6 @@ interface IResourceCatalogTypeIdentify
         IResourceCatalog::TYPE['JGRYXXSFGJ'] => 'JGRYXXSFGJ',
         IResourceCatalog::TYPE['XYTXHMD'] => 'XYTXHMD',
         IResourceCatalog::TYPE['SYDWJBXX'] => 'SYDWJBXX',
-        
         IResourceCatalog::TYPE['XZQZXX'] => 'XZQZXX',
         IResourceCatalog::TYPE['XZZSXX'] => 'XZZSXX',
         IResourceCatalog::TYPE['XZCJXX'] => 'XZCJXX',
@@ -86,13 +85,10 @@ interface IResourceCatalogTypeIdentify
         IResourceCatalog::TYPE['HEIMDXX'] => 'HEIMDXX',
         IResourceCatalog::TYPE['HONGMDXX'] => 'HONGMDXX',
         IResourceCatalog::TYPE['HYFJFLJG'] => 'HYFJFLJG',
-        
         IResourceCatalog::TYPE['QYHYSJ'] => 'QYHYSJ',
-
         IResourceCatalog::TYPE['TEST'] => 'TEST',
         IResourceCatalog::TYPE['DWYSZCXX'] => 'DWYSZCXX',
         IResourceCatalog::TYPE['TQMYQYZK'] => 'TQMYQYZK',
-
         IResourceCatalog::TYPE['ZFCGHT'] => 'ZFCGHT',
         IResourceCatalog::TYPE['GGZYJYHT'] => 'GGZYJYHT',
         IResourceCatalog::TYPE['GQCGHT'] => 'GQCGHT',

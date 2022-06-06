@@ -74,7 +74,6 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['JGRYXXSFGJ'] => '机构荣誉信息',
         IResourceCatalog::TYPE['XYTXHMD'] => '信用体系红名单',
         IResourceCatalog::TYPE['SYDWJBXX'] => '事业单位基本信息',
-        
         IResourceCatalog::TYPE['XZQZXX'] => '行政强制信息',
         IResourceCatalog::TYPE['XZZSXX'] => '行政征收信息',
         IResourceCatalog::TYPE['XZCJXX'] => '行政裁决信息',
@@ -86,13 +85,10 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['HEIMDXX'] => '黑名单信息',
         IResourceCatalog::TYPE['HONGMDXX'] => '红名单信息',
         IResourceCatalog::TYPE['HYFJFLJG'] => '行业分级分类结果',
-
         IResourceCatalog::TYPE['QYHYSJ'] => '企业行业数据',
-        
         IResourceCatalog::TYPE['TEST'] => '演示资源目录',
         IResourceCatalog::TYPE['DWYSZCXX'] => '单位用水注册信息',
         IResourceCatalog::TYPE['TQMYQYZK'] => '拖欠民营企业账款',
-
         IResourceCatalog::TYPE['ZFCGHT'] => '政府采购合同',
         IResourceCatalog::TYPE['GGZYJYHT'] => '公共资源交易合同',
         IResourceCatalog::TYPE['GQCGHT'] => '国企采购合同',

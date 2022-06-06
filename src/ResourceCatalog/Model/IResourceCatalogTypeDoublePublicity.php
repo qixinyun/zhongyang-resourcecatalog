@@ -74,7 +74,6 @@ interface IResourceCatalogTypeDoublePublicity
         IResourceCatalog::TYPE['JGRYXXSFGJ'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
         IResourceCatalog::TYPE['XYTXHMD'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
         IResourceCatalog::TYPE['SYDWJBXX'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
-
         IResourceCatalog::TYPE['XZQZXX'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
         IResourceCatalog::TYPE['XZZSXX'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
         IResourceCatalog::TYPE['XZCJXX'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
@@ -86,19 +85,15 @@ interface IResourceCatalogTypeDoublePublicity
         IResourceCatalog::TYPE['HEIMDXX'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
         IResourceCatalog::TYPE['HONGMDXX'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
         IResourceCatalog::TYPE['HYFJFLJG'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
-        
         IResourceCatalog::TYPE['QYHYSJ'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
-
         IResourceCatalog::TYPE['TEST'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
         IResourceCatalog::TYPE['DWYSZCXX'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
         IResourceCatalog::TYPE['TQMYQYZK'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
-
         IResourceCatalog::TYPE['ZFCGHT'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
         IResourceCatalog::TYPE['GGZYJYHT'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
         IResourceCatalog::TYPE['GQCGHT'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
         IResourceCatalog::TYPE['GCJSHT'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
         IResourceCatalog::TYPE['QTHT'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
-
         IResourceCatalog::TYPE['XYSFSQ'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
         IResourceCatalog::TYPE['CCJCJG'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
         //@position
