@@ -96,6 +96,7 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['QTHT'] => '其他合同',
         IResourceCatalog::TYPE['XYSFSQ'] => '信用示范（商圈、街区）',
         IResourceCatalog::TYPE['CCJCJG'] => '抽查检查结果',
+        IResourceCatalog::TYPE['QYFRGGXYZHPJJG'] => '企业法人公共信用综合评价结果',
         //@position
     );
 }

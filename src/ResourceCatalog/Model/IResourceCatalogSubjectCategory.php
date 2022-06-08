@@ -99,5 +99,6 @@ interface IResourceCatalogSubjectCategory
         'QTHT'=>88,
         'CCJCJG'=>89,
         'XYSFSQ'=>90,
+        'QYFRGGXYZHPJJG' => 91,
     ];
 }
