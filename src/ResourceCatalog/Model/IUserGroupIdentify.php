@@ -41,5 +41,9 @@ interface IUserGroupIdentify
         IUserGroup::ID['PGXRMZF'] => 'PGXRMZF',
         IUserGroup::ID['CJYXRMZF'] => 'CJYXRMZF',
         IUserGroup::ID['HHXRMZF'] => 'HHXRMZF',
+        IUserGroup::ID['BZWYBGS'] => 'BZWYBGS',
+        IUserGroup::ID['LYJ'] => 'LYJ',
+        IUserGroup::ID['JBYFJKZX'] => 'JBYFJKZX',
+        IUserGroup::ID['GAJJTJCDD'] => 'GAJJTJCDD',
     );
 }

@@ -40,5 +40,9 @@ interface IUserGroup extends IUserGroupIdentify
         'PGXRMZF' => 33,
         'CJYXRMZF' => 34,
         'HHXRMZF' => 35,
+        'BZWYBGS' => 36,
+        'LYJ' => 37,
+        'JBYFJKZX' => 38,
+        'GAJJTJCDD' => 39,
     );
 }
