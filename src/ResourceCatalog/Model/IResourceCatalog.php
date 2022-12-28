@@ -141,9 +141,17 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         IUserGroup::ID['XRMFY'] => array(),
         IUserGroup::ID['XJCY'] => array(),
         IUserGroup::ID['XGAJ'] => array(),
-        IUserGroup::ID['XSFJ'] => array(),
-        IUserGroup::ID['XMZJ'] => array(),
-        IUserGroup::ID['XJKJ'] => array(),
+        IUserGroup::ID['XSFJ'] => array(
+            self::TYPE['LSZYZGZXX'],
+            self::TYPE['GZYXX'],
+            self::TYPE['SFJDJGCYRYZGXX'],
+        ),
+        IUserGroup::ID['XMZJ'] => array(            
+            self::TYPE['SHTTDJXX'],
+        ),
+        IUserGroup::ID['XJKJ'] => array(
+            self::TYPE['JSZGXX'],
+        ),
         IUserGroup::ID['XGXJ'] => array(),
         IUserGroup::ID['XCZJ'] => array(),
         IUserGroup::ID['XRSJ'] => array(),
