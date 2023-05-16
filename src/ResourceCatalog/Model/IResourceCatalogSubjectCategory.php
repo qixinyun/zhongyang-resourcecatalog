@@ -26,6 +26,11 @@ interface IResourceCatalogSubjectCategory
         'DTJXJGRXX' => 57,
         'XSPJXX' => 60,
         'XYTXHMD' => 68,
+        'XZQZXX' => 70,
+        'XZCJXX' => 72,
+        'XZQRXX' => 73,
+        'JDJCXX' => 75,
+        'XZJLXX' => 76,
     ];
     // 企业
     const RESOURCE_CATALOG_ENTERPRISE = [
